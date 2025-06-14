@@ -4,7 +4,7 @@ import SecurityCardData from '@/data/Security.json';
 const Security = () => {
     
   return (
-    <div className="bg-[#F5F5F5] xl:h-[60vh] p-[30px] xl:p-0 flex items-center  ">
+    <div className="bg-[#F5F5F5] xl:h-[70vh] p-[30px] xl:p-0 flex items-center  ">
       <div className="w-[86vw] mx-auto ">
         <div className="flex flex-col gap-[16px]">
           <span className="text-[24px]">Security is our top priority</span>
