@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <>
-      <div className="w-[86vw] h-[80px] items-center border  border-red-300 mx-auto flex justify-between">
+      <div className="w-[86vw] h-[80px] items-center  mx-auto flex justify-between">
         <div className="cursor-pointer">
           <img src="/intervueNavLogo.svg" alt="" />
         </div>

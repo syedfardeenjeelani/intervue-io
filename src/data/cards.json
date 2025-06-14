@@ -19,7 +19,8 @@
     "category": "DATA STRUCTURE & ALGORITHMS",
     "title": "Design a Free Food App",
     "description": "We created this guide after speaking with our community of interviewers, which includes over 100 current and former Amazon engineers, as well as our corpus of mock interviews"
-  },{
+  },
+  {
     "difficulty": "Easy",
     "difficultyColor": "bg-blue-700",
     "category": "DATA STRUCTURE & ALGORITHMS",
@@ -39,7 +40,29 @@
     "category": "DATA STRUCTURE & ALGORITHMS",
     "title": "Design a Free Food App",
     "description": "We created this guide after speaking with our community of interviewers, which includes over 100 current and former Amazon engineers, as well as our corpus of mock interviews"
-  },{
+  },
+  {
+    "difficulty": "Easy",
+    "difficultyColor": "bg-blue-700",
+    "category": "DATA STRUCTURE & ALGORITHMS",
+    "title": "Design a Free Food App",
+    "description": "We created this guide after speaking with our community of interviewers, which includes over 100 current and former Amazon engineers, as well as our corpus of mock interviews"
+  },
+  {
+    "difficulty": "Medium",
+    "difficultyColor": "bg-yellow-500",
+    "category": "DATA STRUCTURE & ALGORITHMS",
+    "title": "Design a Free Food App",
+    "description": "We created this guide after speaking with our community of interviewers, which includes over 100 current and former Amazon engineers, as well as our corpus of mock interviews"
+  },
+  {
+    "difficulty": "Hard",
+    "difficultyColor": "bg-green-600",
+    "category": "DATA STRUCTURE & ALGORITHMS",
+    "title": "Design a Free Food App",
+    "description": "We created this guide after speaking with our community of interviewers, which includes over 100 current and former Amazon engineers, as well as our corpus of mock interviews"
+  },
+  {
     "difficulty": "Easy",
     "difficultyColor": "bg-blue-700",
     "category": "DATA STRUCTURE & ALGORITHMS",

@@ -5,12 +5,14 @@ import data from '@/data/cards.json'
 const Hero = () => {
   return (
     <>
-      <div className="flex justify-center border border-red-700  h-[50vh] items-center flex-col gap-2.5">
-        <h1 className="text-[30px]  ">Technical Interview Resources</h1>
-        <span className="text-[#6d6d6d] text-[16px] ">
+      <div className="flex justify-center   h-[50vh] items-center flex-col gap-2.5">
+        <h1 className="sm:text-[30px] text-[28px] text-center  ">
+          Technical Interview Resources
+        </h1>
+        <span className="text-[#6d6d6d] text-[14px] sm:text-[16px] text-center ">
           Find all the technical resources here
         </span>
-        <div className="w-[40vw] h-[45px] mt-[20px] items-center rounded-[36px] flex justify-end bg-[#F5F5F5] ">
+        <div className="md:w-[40vw] sm:w-[400px] w-[350px] h-[45px] mt-[20px] items-center rounded-[36px] flex justify-end bg-[#F5F5F5] ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
@@ -27,7 +29,7 @@ const Hero = () => {
           </svg>
 
           <input
-            className="z-10 w-[38vw] outline-none"
+            className="z-10 md:w-[38vw] w-[300px] sm:w-[350px] outline-none"
             type="text"
             placeholder="Search for resources here"
           />
