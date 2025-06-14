@@ -1,5 +1,7 @@
 import React from "react";
 
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 type SecurityCardProps = {
   icon: string;
   title: string;
