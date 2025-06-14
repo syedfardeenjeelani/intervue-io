@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Security",
+    "description": "Protecting your data at every layer is fundamental to how Intervue works",
+    "icon": "key",
+    "hasDescription": true
+  },
+  {
+    "title": "Compliances",
+    "description": "Enterprise grade compliance commitments where we have established controls to adhere to those commitments",
+    "icon": "layers",
+    "hasDescription": true
+  },
+  {
+    "title": "Intervue for Startups",
+    "description": "",
+    "icon": "rocket",
+    "hasDescription": false
+  },
+  {
+    "title": "Intervue for Enterprises",
+    "description": "",
+    "icon": "globe",
+    "hasDescription": false
+  }
+]
