@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { Sora } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/layout/Navbar";
+import Footer from "./components/layout/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -33,11 +34,12 @@ export default function RootLayout({
   return (
     <html lang="en" className={sora.variable}>
       <body
+        cz-shortcut-listen="true"
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Navbar/>
+        <Navbar />
         {children}
-        {/* <Footer/> */}
+        <Footer />
       </body>
     </html>
   );

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "On-demand",
+    "description": "Save 90% of engineering & recruitment bandwidth, outsource candidate interviews to us",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6Mm8Bd2m-dIOswHCfB2gCWAOZcKIFzAZGg&s",
+    "linkText": "Know more →",
+    "link": "#"
+  },
+  {
+    "title": "Live interviews",
+    "description": "Assess candidates in real-time with our live coding environment & integrated video calls",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6Mm8Bd2m-dIOswHCfB2gCWAOZcKIFzAZGg&s",
+    "linkText": "Know more →",
+    "link": "#"
+  },
+  {
+    "title": "Assessments",
+    "description": "Share assessments across batches with MCQ, Programming and Subjective questions.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6Mm8Bd2m-dIOswHCfB2gCWAOZcKIFzAZGg&s",
+    "linkText": "Know more →",
+    "link": "#"
+  }
+]

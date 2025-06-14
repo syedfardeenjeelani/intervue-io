@@ -17,11 +17,11 @@ const HeroCards: React.FC<HeroCardProps> = ({
 }) => {
   return (
     <div className="w-[400px] p-[16px] sm:h-[210px] border rounded-[12px] border-[#b1b0b0]">
-      <div className="flex gap-[20px] items-center">
+      <div className="flex md:flex-row flex-col gap-[10px] md:gap-[20px] md:items-center">
         <span
           className={`${
             difficulty === "Medium" ? " w-[90px] sm:w-[78px]" : "w-[58px]"
-          } flex items-center justify-center h-[22px] rounded-[4px] text-white ${difficultyColor}`}
+          } flex items-center justify-center h-[22px] p-2 rounded-[4px] text-white ${difficultyColor}`}
         >
           {difficulty}
         </span>
